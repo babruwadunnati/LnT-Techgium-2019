@@ -1,0 +1,108 @@
+﻿Change,Module,Testcase,Defect
+Current functionality altered,Login,username and password empty,0
+Current functionality altered,Login,username and password incorrect,0
+Current functionality altered,Login,username and pass correct,0
+Current functionality altered,Login,remember password not working ,0
+Current functionality altered,Login,mark imp working,1
+Current functionality altered,Login,delete not working,1
+Current functionality altered,Login,mail open clicked but the fuctionality doesn’t work,0
+Current functionality altered,Login,marked read on device but not reflected,0
+Current functionality altered,Login,display all details,1
+Current functionality altered,Login,change pass working,0
+Current functionality altered,Login,sign out option,1
+Current functionality altered,Login,add account working,0
+Current functionality altered,inbox,username and password empty,0
+Current functionality altered,inbox,username and password incorrect,0
+Current functionality altered,inbox,username and pass correct,1
+Current functionality altered,inbox,remember password not working ,1
+Current functionality altered,inbox,mark imp working,0
+Current functionality altered,inbox,delete not working,0
+Current functionality altered,inbox,mail open clicked but the fuctionality doesn’t work,0
+Current functionality altered,inbox,marked read on device but not reflected,0
+Current functionality altered,inbox,display all details,0
+Current functionality altered,inbox,change pass working,1
+Current functionality altered,inbox,sign out option,0
+Current functionality altered,inbox,add account working,1
+Current functionality altered,viewprofile,username and password incorrect,0
+Current functionality altered,viewprofile,username and pass correct,1
+Current functionality altered,viewprofile,remember password not working ,0
+Current functionality altered,viewprofile,mark imp working,1
+Current functionality altered,viewprofile,delete not working,1
+Current functionality altered,viewprofile,mail open clicked but the fuctionality doesn’t work,1
+Current functionality altered,viewprofile,marked read on device but not reflected,0
+Current functionality altered,viewprofile,display all details,0
+Current functionality altered,viewprofile,change pass working,0
+Current functionality altered,viewprofile,sign out option,0
+Current functionality altered,viewprofile,add account working,0
+New functionality added,Login,username and password empty,0
+New functionality added,Login,username and password incorrect,0
+New functionality added,Login,username and pass correct,0
+New functionality added,Login,remember password not working ,0
+New functionality added,Login,mark imp working,1
+New functionality added,Login,delete not working,1
+New functionality added,Login,mail open clicked but the fuctionality doesn’t work,1
+New functionality added,Login,marked read on device but not reflected,0
+New functionality added,Login,display all details,0
+New functionality added,Login,change pass working,1
+New functionality added,Login,sign out option,1
+New functionality added,Login,add account working,0
+New functionality added,inbox,username and password empty,1
+New functionality added,inbox,username and password incorrect,0
+New functionality added,inbox,username and pass correct,0
+New functionality added,inbox,remember password not working ,1
+New functionality added,inbox,mark imp working,0
+New functionality added,inbox,delete not working,0
+New functionality added,inbox,mail open clicked but the fuctionality doesn’t work,0
+New functionality added,inbox,marked read on device but not reflected,0
+New functionality added,inbox,display all details,1
+New functionality added,inbox,change pass working,1
+New functionality added,inbox,sign out option,1
+New functionality added,inbox,add account working,1
+New functionality added,viewprofile,username and password empty,0
+New functionality added,viewprofile,username and password incorrect,1
+New functionality added,viewprofile,username and pass correct,1
+New functionality added,viewprofile,remember password not working ,0
+New functionality added,viewprofile,mark imp working,1
+New functionality added,viewprofile,delete not working,1
+New functionality added,viewprofile,mail open clicked but the fuctionality doesn’t work,1
+New functionality added,viewprofile,marked read on device but not reflected,0
+New functionality added,viewprofile,display all details,0
+New functionality added,viewprofile,change pass working,0
+New functionality added,viewprofile,sign out option,0
+New functionality added,viewprofile,add account working,0
+Delete functionality,Login,username and password empty,0
+Delete functionality,Login,username and password incorrect,0
+Delete functionality,Login,username and pass correct,0
+Delete functionality,Login,remember password not working ,0
+Delete functionality,Login,mark imp working,1
+Delete functionality,Login,delete not working,1
+Delete functionality,Login,mail open clicked but the fuctionality doesn’t work,0
+Delete functionality,Login,marked read on device but not reflected,0
+Delete functionality,Login,display all details,1
+Delete functionality,Login,change pass working,0
+Delete functionality,Login,sign out option,1
+Delete functionality,Login,add account working,0
+Delete functionality,inbox,username and password empty,0
+Delete functionality,inbox,username and password incorrect,1
+Delete functionality,inbox,username and pass correct,0
+Delete functionality,inbox,remember password not working ,1
+Delete functionality,inbox,mark imp working,0
+Delete functionality,inbox,delete not working,0
+Delete functionality,inbox,mail open clicked but the fuctionality doesn’t work,0
+Delete functionality,inbox,marked read on device but not reflected,0
+Delete functionality,inbox,display all details,1
+Delete functionality,inbox,change pass working,1
+Delete functionality,inbox,sign out option,0
+Delete functionality,inbox,add account working,0
+Delete functionality,viewprofile,username and password empty,1
+Delete functionality,viewprofile,username and password incorrect,1
+Delete functionality,viewprofile,username and pass correct,0
+Delete functionality,viewprofile,remember password not working ,0
+Delete functionality,viewprofile,mark imp working,0
+Delete functionality,viewprofile,delete not working,1
+Delete functionality,viewprofile,mail open clicked but the fuctionality doesn’t work,0
+Delete functionality,viewprofile,marked read on device but not reflected,1
+Delete functionality,viewprofile,display all details,0
+Delete functionality,viewprofile,change pass working,0
+Delete functionality,viewprofile,sign out option,0
+Delete functionality,viewprofile,add account working,0
