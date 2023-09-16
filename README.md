@@ -9,4 +9,5 @@ The idea was selected for the National Finals and a working prototype was demons
 
 <b>Our team was one among the top Finalists selected from  19000+ students participating from 272 Engineering colleges </b>
 
-
+## Methodology:
+<img width="791" alt="image" src="https://github.com/babruwadunnati/LnT-Techgium-2019/assets/40277323/8f279ae3-076a-4aee-b212-35cd413f414f">
