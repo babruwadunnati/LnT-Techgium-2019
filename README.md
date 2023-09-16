@@ -11,3 +11,9 @@ The idea was selected for the National Finals and a working prototype was demons
 
 ## Methodology:
 <img width="791" alt="image" src="https://github.com/babruwadunnati/LnT-Techgium-2019/assets/40277323/8f279ae3-076a-4aee-b212-35cd413f414f">
+
+
+## Demo Video
+
+https://github.com/babruwadunnati/LnT-Techgium-2019/assets/40277323/6396d83a-72a5-4195-944a-fa6d8a93f036
+
